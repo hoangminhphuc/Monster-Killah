@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1677386651 source:d:\sdlgamesmaking\sdltest\core\spine.cpp
+	<iostream>
+	"Spine.h"
+
+1677587844 d:\sdlgamesmaking\sdltest\core\spine.h
+	<../AllFunc.h>
+
+1677675445 source:d:\sdlgamesmaking\sdltest\voidgenome 2.cpp
+	<iostream>
+	"AllFunc.h"
+	"Spine.h"
+	"game-map.h"
+	"maincharacter.h"
+	"Timer.h"
+
+1676907214 source:d:\sdlgamesmaking\sdltest\allfunc.cpp
+	<iostream>
+	"AllFunc.h"
+
+1677676085 d:\sdlgamesmaking\sdltest\allfunc.h
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+
+1676907152 d:\sdlgamesmaking\sdltest\\allfunc.h
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+
+1677389066 source:d:\sdlgamesmaking\sdltest\game-map.cpp
+	"game-map.h"
+	<iostream>
+
+1677596630 d:\sdlgamesmaking\sdltest\game-map.h
+	"Spine.h"
+
+1677386803 d:\sdlgamesmaking\sdltest\game-map.cpp
+	"game-map.h"
+	"AllFunc.h"
+	"Spine.h"
+
+1677682680 d:\sdlgamesmaking\sdltest\maincharacter.h
+	"AllFunc.h"
+	"Spine.h"
+
+1677681412 source:d:\sdlgamesmaking\sdltest\maincharacter.cpp
+	"maincharacter.h"
+	"AllFunc.h"
+
+1677598840 source:d:\sdlgamesmaking\sdltest\timer.cpp
+	"Timer.h"
+	"AllFunc.h"
+
+1677598840 d:\sdlgamesmaking\sdltest\timer.h
+
+1676907214 source:c:\sdlgamesmaking\sdltest\allfunc.cpp
+	<iostream>
+	"AllFunc.h"
+
+1677676085 c:\sdlgamesmaking\sdltest\allfunc.h
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+
+1677386651 source:c:\sdlgamesmaking\sdltest\core\spine.cpp
+	<iostream>
+	"Spine.h"
+
+1677587844 c:\sdlgamesmaking\sdltest\core\spine.h
+	<../AllFunc.h>
+
+1677389066 source:c:\sdlgamesmaking\sdltest\game-map.cpp
+	"game-map.h"
+	<iostream>
+
+1677596630 c:\sdlgamesmaking\sdltest\game-map.h
+	"Spine.h"
+
+1677598840 source:c:\sdlgamesmaking\sdltest\timer.cpp
+	"Timer.h"
+	"AllFunc.h"
+
+1677598840 c:\sdlgamesmaking\sdltest\timer.h
+
+1677675445 source:c:\sdlgamesmaking\sdltest\voidgenome 2.cpp
+	<iostream>
+	"AllFunc.h"
+	"Spine.h"
+	"game-map.h"
+	"maincharacter.h"
+	"Timer.h"
+
+1677685851 c:\sdlgamesmaking\sdltest\maincharacter.h
+	"AllFunc.h"
+	"Spine.h"
+
+1677685850 source:c:\sdlgamesmaking\sdltest\maincharacter.cpp
+	"maincharacter.h"
+	"AllFunc.h"
+
